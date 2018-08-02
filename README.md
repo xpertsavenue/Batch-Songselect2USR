@@ -32,7 +32,7 @@ perl AllSteps_FetchSongs.pl
 ```
 and answer the questions asked by the console.
 
-IMPORTANT: Use the script just for your needs. Do not exaggerate!
+**IMPORTANT: Use the script just for your needs. Do not exaggerate!**
 
 ## License
 MIT License
